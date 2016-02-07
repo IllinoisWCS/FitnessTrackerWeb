@@ -1,0 +1,29 @@
+{
+  "name": "fitness-tracker-web",
+  "version": "0.0.1",
+  "description": "The Tech Team project for 2015 - 2016 - a fitness tracking concept",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IllinoisWCS/FitnessTrackerWeb.git"
+  },
+  "keywords": [
+    "techteam",
+    "2015",
+    "2016",
+    "wcs",
+    "uiuc"
+  ],
+  "author": "Tech Team 2015-16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IllinoisWCS/FitnessTrackerWeb/issues"
+  },
+  "homepage": "https://github.com/IllinoisWCS/FitnessTrackerWeb#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
